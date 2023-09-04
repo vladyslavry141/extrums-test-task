@@ -4,11 +4,13 @@
 
 ### backend
 * Move to the backend directory `cd backend`
+* Load node modules `npm i`
 * Prepare a .env `npm run prepare:dev`
 * Start the server `npm run start`
 
 ### frontend
 * Move to the frontend directory `cd frontend`
+* Load node modules `npm i`
 * Prepare a .env file `npm run prepare:dev`
 * Start the dev server `npm run dev`
 * Open the link http://localhost:5173/
